@@ -1,0 +1,14 @@
+{
+  "name": "msBot",
+  "version": "0.0.1",
+  "description": "Simple bot to get started with MS BotFramework",
+  "main": "index.js",
+  "repository": "https://github.com/unisys12/msBot.git",
+  "author": "Phillip Jackson <unisys12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "botbuilder": "^3.8.3",
+    "restify": "^4.3.0"
+  }
+}
